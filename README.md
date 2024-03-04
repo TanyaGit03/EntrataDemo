@@ -25,3 +25,8 @@ Test Steps:
 3	Validate Scrolling functionality on Home Page.
 4	Validate clickable title links present at the bottom of home page
 Post- Conditions	::: Browser is closed		
+
+-------------------------------------------------------
+To run this project : 
+1. Install all the necessary tools like maven(Apache Maven 3.9.6),JUnit 4 etc..
+2. Run the package or run "/seleniumentra/src/test/java/Entrataui/TestRunner.java" using JavaSE-17 or above compiler.
